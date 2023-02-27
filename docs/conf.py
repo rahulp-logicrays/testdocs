@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rahul test docs'
-copyright = '2023, Rahul'
-author = 'Rahul'
+project = 'Logicrays Documents'
+copyright = '2023, Logicrays'
+author = 'Logicrays'
 
 # The short X.Y version
 version = ''
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Rahultestdocsdoc'
+htmlhelp_basename = 'Logicraystestdocsdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Rahultestdocs.tex', 'Rahul test docs Documentation',
+    (master_doc, 'LogicraysDocs.tex', 'Logicrays Documentation',
      'Rahul', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'rahultestdocs', 'Rahul test docs Documentation',
+    (master_doc, 'LogicraysDocs', 'Logicrays Documentation',
      [author], 1)
 ]
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Rahultestdocs', 'Rahul test docs Documentation',
-     author, 'Rahultestdocs', 'One line description of project.',
+    (master_doc, 'LogicraysDocs', 'Logicrays Documentation',
+     author, 'LogicraysDocs', 'One line description of project.',
      'Miscellaneous'),
 ]
 
