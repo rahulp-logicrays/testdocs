@@ -12,13 +12,13 @@ Run the following command line::
 
     php bin/magento setup:upgrade
 
-First of all Delete database tables:
+First of all, delete the following database tables:
 
 Now open a Mysql mangement such as :guilabel:`PHPMyAdmin`
 
-Open your database and Find table with prefix: ``logicrays_Callforprice``
+Open your database and find the table with the prefix: ``logicrays_Callforprice``
 
-Delete all the database tables related to ``logicrays_Callforprice`` see below image.
+Delete all database tables associated with ``logicrays_Callforprice`` see below image.
 
 .. image:: img/phpmyadmin.png
 
