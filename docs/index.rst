@@ -9,6 +9,15 @@ Welcome to Logicrays
 .. toctree::
    :maxdepth: 1
    :glob:
-   :caption: Install Magento 2 Extensions
+   :caption: KNOWLEDGE BASE
 
-   Logicrays/magento-installation-document
+   Knowledge_Base/install-magento2-extension
+   Knowledge_Base/uninstall-extension
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :caption: USER GUIDE
+
+   User_Guide/call-for-price
+   User_Guide/google-recaptcha

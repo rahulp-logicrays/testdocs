@@ -1,5 +1,5 @@
-Magento Extensions Installation Document
-========================================
+Install Magento2 Extension
+==========================
 
 Ready to Paste Install Magento2 Extension
 
@@ -10,8 +10,8 @@ Ready to Paste Install Magento2 Extension
 To Install Magento 2 Extension by Logicrays:
 ````````````````````````````````````````````
 
-#1: Download SFTP clients
-```````````````````````````
+Step 1: Download SFTP clients
+`````````````````````````````
 Download SFTP clients, we recommend clients: `FileZilla <https://www.logicrays.com/>`_, `WinSCP <https://www.logicrays.com/>`_. In this case, we are using **FileZilla** to install Magento 2 `Callforprice <https://www.logicrays.com/>`_.
 
 Step 2: Download the Package
