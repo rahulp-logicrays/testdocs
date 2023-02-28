@@ -14,17 +14,17 @@ How to configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/Dashboard-Magento-Admin.png
+    .. figure:: img/callforprice/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/configuration_1.png
+    .. figure:: img/callforprice/configuration_1.png
         :alt: module configuration fields
 
 
-    .. figure:: img/configuration_2.png
+    .. figure:: img/callforprice/configuration_2.png
         :alt: module configuration fields
     
     * **Call For Price**: Choose ``Enable`` to use the functions of this module.
@@ -38,30 +38,29 @@ How to configure
     * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers. If you check the ``Use System Value`` box, the default value will be used.
     * **Show on Specific Date Range**: If set to yes, the "Call For Price buttons will only be available in the front-end during a particular date range. If No is selected, the functionality will always be available.
   
-
-    .. note::
-        Now save the configuration and cache flush.
+.. note::
+    Now save the configuration and cache flush.
 
 
 #. Now we have to select some products to enable the functionality of this module.
     
     go to ``Catalog > Products`` see below image.
 
-    .. figure:: img/Dashboard-catalog-product.png
+    .. figure:: img/callforprice/Dashboard-catalog-product.png
         :alt: Catalog Product
 
 
 
 #. Here you can see a list of products, and from here you can open a product in Edit mode.
 
-    .. figure:: img/Products-Inventory-Catalog-Magento-Admin.png
+    .. figure:: img/callforprice/Products-Inventory-Catalog-Magento-Admin.png
 
 
 #. Scroll down after opening a product in Edit mode to see the product attribute that is 
     
     ``Call for Price`` check ``Yes``
 
-    .. figure:: img/Joust-Duffle-Bag-Products-Inventory-Catalog-Magento-Admin.png
+    .. figure:: img/callforprice/Joust-Duffle-Bag-Products-Inventory-Catalog-Magento-Admin.png
 
 
     .. note::
@@ -70,30 +69,30 @@ How to configure
 
 #. Now open a product in the front-end; this is the ``category page``, as shown in the image below.
 
-    .. figure:: img/category_page.png
+    .. figure:: img/callforprice/category_page.png
 
 
 #. This is the ``product view page``. Here, you can see in place of the ``price``, display some text, and in place of the ``Add to Cart`` button, it's now shows ``Call for Price`` button, based on your admin-side configuration.
 
-    .. figure:: img/product-view-page.png
+    .. figure:: img/callforprice/product-view-page.png
 
 
 
 #. This is a ``Sidebar-wishlist`` section.
 
-    .. figure:: img/sidebar-wishlist.png
+    .. figure:: img/callforprice/sidebar-wishlist.png
 
 #. This is an ``Wishlist`` Section page.
 
-    .. figure:: img/wishlist-section.png
+    .. figure:: img/callforprice/wishlist-section.png
 
 #. This is an ``Add-to-Compare`` page.
 
-    .. figure:: img/Add-to-compare.png
+    .. figure:: img/callforprice/Add-to-compare.png
 
 #. When we click the button ``Call for Price``, a popup form appears, as shown in the image below.
 
-    .. figure:: img/popup.gif
+    .. figure:: img/callforprice/popup.gif
 
 
     .. note::
@@ -103,9 +102,9 @@ How to configure
 
 #. Customer Mail sent
 
-    .. figure:: img/Customer-mail.png
+    .. figure:: img/callforprice/Customer-mail.png
 
 
 #. Admin recevied request
 
-    .. figure:: img/Admin-side-mail.png
+    .. figure:: img/callforprice/Admin-side-mail.png
