@@ -56,28 +56,32 @@ How to configure
     Now we have applied Google ReCaptcha to some front-end default forms; see the images below.
 
 :guilabel:`Register Form`
-    I used visible ReCaptcha in this.
+
+    **I used visible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/Create-New-Customer-Account.png
-        :alt: module configuration fields
+        :alt: Register Form
 
 :guilabel:`Login Form`
-    I used Invisible ReCaptcha in this.
+
+    **I used Invisible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/Customer-Login.png
-        :alt: module configuration fields
+        :alt: Login Form
 
 :guilabel:`Contact-Us Form`
-    I used visible ReCaptcha in this.
+
+    **I used visible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/Contact-Us.png
-        :alt: module configuration fields
+        :alt: Contact-Us Form
 
 :guilabel:`Product Review Form`
-    I used Invisible ReCaptcha in this.
+
+    **I used Invisible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/product-review.png
-        :alt: module configuration fields
+        :alt: Product Review Form
 
 
 .. note::
@@ -85,14 +89,16 @@ How to configure
     Now we have applied Google ReCaptcha to some back-end default forms; see the images below.
 
 :guilabel:`Login Form`
-    I used visible ReCaptcha in this.
+
+    **I used visible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/Magento-Admin.png
-        :alt: module configuration fields
+        :alt: Login Form
 
 
 :guilabel:`Forgot Password Form`
-    I used Invisible ReCaptcha in this.
+
+    **I used Invisible ReCaptcha in this**.
 
     .. figure:: img/recaptcha/Magento-Admin_2.png
-        :alt: module configuration fields
+        :alt: Forgot Password Form

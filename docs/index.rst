@@ -21,3 +21,4 @@ Welcome to Logicrays
 
    User_Guide/call-for-price
    User_Guide/google-recaptcha
+   User_Guide/email-filter
