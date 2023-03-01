@@ -23,3 +23,4 @@ Welcome to Logicrays
    User_Guide/google-recaptcha
    User_Guide/email-filter
    User_Guide/order-cancel
+   User_Guide/order-prefix
