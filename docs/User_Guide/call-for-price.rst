@@ -108,3 +108,19 @@ How to configure
 #. Admin recevied request
 
     .. figure:: img/callforprice/Admin-side-mail.png
+
+#. Now you have to check admin side grid. Simply go to ``Logicrays > Call For Price > Manage Request`` see below image.
+
+    .. figure:: img/callforprice/Grid.png
+
+#. After click on ``Manage Request`` then you can redirect to ``Admin Grid`` see below image.
+    
+    If you wish to Edit details, simply click on ``Edit``.
+    
+    .. figure:: img/callforprice/Admin_Grid.png
+
+#. When processing is done on your request, admin will change the status from ``New`` to ``Complete``.
+    
+    Concerning the status update email sent to the customer. Please see the image of the mail below.
+    
+    .. figure:: img/callforprice/Status-Update-mail.png
