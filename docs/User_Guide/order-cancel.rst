@@ -9,7 +9,7 @@ Customers cannot cancel orders on Magento. So to overcome this issue, Logicrays 
 .. note::
     Hope you are able to successfully install the module.
 
-How to configure
+How to Configure
 ````````````````
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
@@ -25,9 +25,6 @@ How to configure
     .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_2.png
         :alt: module configuration fields
     
-    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_3.png
-        :alt: module configuration fields
-    
     :guilabel:`General`
         * **Enable**: Choose ``Enable`` to use the functions of this module.
         * **Order Cancel Button Title**: Enter the text for Button title of ``Ordercancel`` extension. If you check the ``Use System Value`` box, the default value will be used. 
@@ -36,6 +33,9 @@ How to configure
         * **Order Cancel Popup Note**: Enter the note for the popup form. If you check the ``Use System Value`` box, the default value will be used.
         * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers.
         * **Order Status**: You must select either single or both order statuses here. When you choose that type of order status, apply the ``order cancel`` extension.
+    
+    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_3.png
+        :alt: module configuration fields
     
     :guilabel:`Email Configuration`
         * **Email Sender**: Select your Emial Sender.

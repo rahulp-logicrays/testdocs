@@ -1,4 +1,4 @@
-OrderPrefix
+Order Prefix
 ===========
 
 Overview
@@ -9,7 +9,7 @@ This extension allows you to add your custome prefix at ``Order Id``, ``Shipment
 .. note::
     Hope you are able to successfully install the module.
 
-How to configure
+How to Configure
 ````````````````
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
@@ -22,11 +22,12 @@ How to configure
     .. figure:: img/orderprefix/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
-    * **Module Enable**: Choose ``Enable`` to use the functions of this module.
-    * **Order ID Prefix**: Whatever you enter here will be added before the ``order Id``.
-    * **Invoice Id Prefix**: Whatever you enter here will be added before the ``Invoice Id``.
-    * **Shipment Id Prefix**: Whatever you enter here will be added before the ``Shipment Id``.
-    * **Creditmemo Id Prefix**: Whatever you enter here will be added before the ``Creditmemo Id``.
+    :guilabel:`General`
+        * **Module Enable**: Choose ``Enable`` to use the functions of this module.
+        * **Order ID Prefix**: Whatever you enter here will be added before the ``order Id``.
+        * **Invoice Id Prefix**: Whatever you enter here will be added before the ``Invoice Id``.
+        * **Shipment Id Prefix**: Whatever you enter here will be added before the ``Shipment Id``.
+        * **Creditmemo Id Prefix**: Whatever you enter here will be added before the ``Creditmemo Id``.
 
 .. note::
 
@@ -35,7 +36,7 @@ How to configure
 
 #. Make an order first, and then whatever you enter in the admin side prefix in the Order ID field will show here, as shown in the image below.
 
-    This is ``Sucess Page``
+    This is ``Success Page``
 
     .. figure:: img/orderprefix/Success-Page.png
         :alt: Success Page

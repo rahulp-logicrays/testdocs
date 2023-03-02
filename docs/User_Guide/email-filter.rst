@@ -1,4 +1,4 @@
-EmailFilter
+Email Filter
 ===========
 
 Overview
@@ -9,7 +9,7 @@ This extension allows you to prevent unauthorised access to certain domains or e
 .. note::
     Hope you are able to successfully install the module.
 
-How to configure
+How to Configure
 ````````````````
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
@@ -21,13 +21,14 @@ How to configure
 
     .. figure:: img/emailfilter/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
-
-    * **Module Enable**: Choose ``Enable`` to use the functions of this module.
-    * **Registration Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Register Page. 
-    * **Checkout Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Checkout Page.
-    * **Contact Us Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Contact Us Page.
-    * **Newslatter Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Newslatter.
-    * **Email Domain Restriction**: In this field, you have to specify which domain or which types of email you restrict on your website.
+    
+    :guilabel:`General`
+        * **Module Enable**: Choose ``Enable`` to use the functions of this module.
+        * **Registration Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Register Page. 
+        * **Checkout Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Checkout Page.
+        * **Contact Us Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Contact Us Page.
+        * **Newslatter Email Restriction Enable**: If you select ``Enable``, you can avoid entering an unwanted email address on the Newslatter.
+        * **Email Domain Restriction**: In this field, you have to specify which domain or which types of email you restrict on your website.
 
 .. note::
     Now save the configuration and cache flush.

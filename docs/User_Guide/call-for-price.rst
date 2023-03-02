@@ -9,7 +9,7 @@ Nowadays, some stores or distributors don’t want to display the price of the p
 .. note::
     Hope you are able to successfully install the module.
 
-How to configure
+How to Configure
 ````````````````
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
@@ -27,16 +27,17 @@ How to configure
     .. figure:: img/callforprice/configuration_2.png
         :alt: module configuration fields
     
-    * **Call For Price**: Choose ``Enable`` to use the functions of this module.
-    * **Call For Price Button Text**: When this module is apply then instead of ``Add to Cart`` button text show whatever you enter in this field. If you check the ``Use System Value`` box, the default value will be used.
-    * **Enter Message to show on place of Price**: Whatever text you enter in this field will appear in the frontend in place of the price.
-    * **Send Email To**: Enter an email address to send a message to the administrator.
-    * **Email Sender**: Select your Emial Sender.
-    * **Email Template For Customer**: Select the customer template for mail.
-    * **Email Template For Admin**: Select the admin template for mail.
-    * **Email Template Status Update**: Select the status update template for the customer.
-    * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers. If you check the ``Use System Value`` box, the default value will be used.
-    * **Show on Specific Date Range**: If set to yes, the "Call For Price buttons will only be available in the front-end during a particular date range. If No is selected, the functionality will always be available.
+    :guilabel:`General`
+        * **Call For Price**: Choose ``Enable`` to use the functions of this module.
+        * **Call For Price Button Text**: When this module is apply then instead of ``Add to Cart`` button text show whatever you enter in this field. If you check the ``Use System Value`` box, the default value will be used.
+        * **Enter Message to show on place of Price**: Whatever text you enter in this field will appear in the frontend in place of the price.
+        * **Send Email To**: Enter an email address to send a message to the administrator.
+        * **Email Sender**: Select your Emial Sender.
+        * **Email Template For Customer**: Select the customer template for mail.
+        * **Email Template For Admin**: Select the admin template for mail.
+        * **Email Template Status Update**: Select the status update template for the customer.
+        * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers. If you check the ``Use System Value`` box, the default value will be used.
+        * **Show on Specific Date Range**: If set to yes, the "Call For Price buttons will only be available in the front-end during a particular date range. If No is selected, the functionality will always be available.
   
 .. note::
     Now save the configuration and cache flush.

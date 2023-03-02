@@ -11,7 +11,7 @@ The Google Recaptcha extension is the best solution to protect your e-commerce s
     Hope you are able to successfully install the module.
 
 
-How to configure
+How to Configure
 ````````````````
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
@@ -24,12 +24,6 @@ How to configure
     .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
-    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_2.png
-        :alt: module configuration fields
-    
-    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_3.png
-        :alt: module configuration fields
-
     :guilabel:`General`
         * **Enable CAPTCHA on Store**: Choose ``Enable`` to use the functions of this module.
         * **Language Code**: Select the language in which the reCAPTCHA appears on the frontend and in the backend.
@@ -43,10 +37,16 @@ How to configure
         * **Secret Key**: Whatever captcha type you select from the dropdown, you have to enter the respective secret key.
         * **Forms**: Here, you can select single or multiple forms to apply the functionality of Google ReCaptcha.
     
+    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_2.png
+        :alt: module configuration fields
+    
     :guilabel:`Custom Form Position`
         * **Form Post Paths**: If you have a third-party form, you can also add Google ReCaptcha to the form's post path.
         * **CSS Selectors**: If you use a third-party form, you can also apply Google ReCaptcha to the form's CSS selectors.
     
+    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_3.png
+        :alt: module configuration fields
+
     :guilabel:`Backend Configuration`
         * **Enable**: Choose ``Enable`` to use the functions of this module at the backend of Magento.
         * **Forms**: Here, you can select single or multiple forms to apply the functionality of Google ReCaptcha at the backend of Magento.

@@ -24,3 +24,4 @@ Welcome to Logicrays
    User_Guide/email-filter
    User_Guide/order-cancel
    User_Guide/order-prefix
+   User_Guide/stock-notification
