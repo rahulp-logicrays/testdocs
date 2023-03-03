@@ -19,10 +19,7 @@ How to Configure
     
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin.png
-        :alt: module configuration fields
-    
-    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_2.png
+    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_0.png
         :alt: module configuration fields
     
     :guilabel:`General`

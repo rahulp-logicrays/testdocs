@@ -20,11 +20,7 @@ How to Configure
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/callforprice/configuration_1.png
-        :alt: module configuration fields
-
-
-    .. figure:: img/callforprice/configuration_2.png
+    .. figure:: img/callforprice/Configuration-Settings-Stores-Magento-Admin_0.png
         :alt: module configuration fields
     
     :guilabel:`General`
