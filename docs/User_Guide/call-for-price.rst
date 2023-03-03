@@ -37,7 +37,7 @@ How to Configure
         * **Email Template For Admin**: Select the admin template for mail.
         * **Email Template Status Update**: Select the status update template for the customer.
         * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers. If you check the ``Use System Value`` box, the default value will be used.
-        * **Show on Specific Date Range**: If set to yes, the "Call For Price buttons will only be available in the front-end during a particular date range. If No is selected, the functionality will always be available.
+        * **Show on Specific Date Range**: If set to yes, the ``Call for Price`` buttons will only be available in the front-end during a particular date range. If No is selected, the functionality will always be available.
   
 .. note::
     Now save the configuration and cache flush.
@@ -49,8 +49,6 @@ How to Configure
 
     .. figure:: img/callforprice/Dashboard-catalog-product.png
         :alt: Catalog Product
-
-
 
 #. Here you can see a list of products, and from here you can open a product in Edit mode.
 
@@ -76,8 +74,6 @@ How to Configure
 #. This is the ``product view page``. Here, you can see in place of the ``price``, display some text, and in place of the ``Add to Cart`` button, it's now shows ``Call for Price`` button, based on your admin-side configuration.
 
     .. figure:: img/callforprice/product-view-page.png
-
-
 
 #. This is a ``Sidebar-wishlist`` section.
 
