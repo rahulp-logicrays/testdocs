@@ -16,9 +16,9 @@ Uninstall (Copy-and-paste method)
 
     Now open a Mysql mangement such as :guilabel:`PHPMyAdmin`
 
-    Open your database and find the table with the prefix: ``logicrays_Callforprice``
+    Open your database and find the table with the prefix: ``logicrays_callforprice``
 
-    Delete all database tables associated with ``logicrays_Callforprice`` see below image.
+    Delete all database tables associated with ``logicrays_callforprice`` see below image.
 
     .. image:: img/phpmyadmin.png
 
