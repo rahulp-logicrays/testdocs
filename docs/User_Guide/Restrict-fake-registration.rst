@@ -25,7 +25,12 @@ How to Configure
     
     :guilabel:`General`
         * **Module Enable**: Choose ``Enable`` to use the functions of this module.
-        * **Domain Restriction Type**: In this, if you choose ``Inclusive List`` then whatever you enter in the domain list field is considered.
+        * **Domain Restriction Type**: In this, if you choose 
+        
+            ``Inclusive List`` then whatever you enter in the domain list field is considered to allow registration in this store.
+            
+            ``Exclusive List`` then whatever you enter in the domain list field is not considered to allow registration in this store.
+
         * **Domains List**: Enter the domain names you want to restrict to registration.
         * **Domain Restriction Message**: Enter whatever message you want to display when a domain name is successfully found.
         * **Enter No. for First Name Maximum Characters**: Enter a number for the length of the customer's first name.
