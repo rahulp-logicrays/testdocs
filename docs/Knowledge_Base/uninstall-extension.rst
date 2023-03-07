@@ -20,7 +20,9 @@ Uninstall (Copy-and-paste method)
 
     Delete all database tables associated with ``logicrays_callforprice`` see below image.
 
-    .. image:: img/phpmyadmin.png
+    .. figure:: img/phpmyadmin.png
+        :alt: DB table format
+        :align: center
 
 .. note::
     
