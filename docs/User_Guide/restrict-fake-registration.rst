@@ -28,7 +28,7 @@ How to Configure
         * **Domain Restriction Type**: In this, if you choose 
         
             ``Inclusive List`` then whatever you enter in the domain list field is considered to allow registration in this store.
-            
+                
             ``Exclusive List`` then whatever you enter in the domain list field is not considered to allow registration in this store.
 
         * **Domains List**: Enter the domain names you want to restrict to registration.

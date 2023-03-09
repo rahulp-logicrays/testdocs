@@ -26,4 +26,5 @@ Welcome to Logicrays
    User_Guide/order-prefix
    User_Guide/stock-notification
    User_Guide/limit-per-category
-   User_Guide/Restrict-fake-registration
+   User_Guide/restrict-fake-registration
+   User_Guide/quick-order
