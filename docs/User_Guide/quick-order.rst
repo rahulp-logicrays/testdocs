@@ -59,10 +59,10 @@ How to Configure
     
     ``Enter Multiple SKUs`` see below image.
 
-    .. image:: img/quick-order/Mulitiple-SKU.gif
+    .. image:: img/quick-order/mulitiple_sku.gif
         :alt: Multiple-SKU
 
 #. We have made it possible to add products to your cart in bulk. You must first prepare a csv file, which you can then import by clicking on ``Import Skus``, as shown in the image below.
 
-    .. image:: img/quick-order/Import-SKU.gif
+    .. image:: img/quick-order/import_sku.gif
         :alt: Import-SKU
