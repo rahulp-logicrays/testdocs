@@ -36,5 +36,5 @@ How to Configure
 #. Open the front end of your store.
     Here you can see below video file it will work very well.
 
-    .. figure:: img/callforprice/popup.gif
+    .. figure:: img/language-translate/frontend-side.gif
         :alt: front-end side module video
