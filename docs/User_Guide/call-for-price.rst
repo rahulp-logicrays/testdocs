@@ -85,7 +85,7 @@ How to Configure
 
 #. When we click the button ``Call for Price``, a popup form appears, as shown in the image below.
 
-    .. figure:: img/callforprice/popup.gif
+    .. image:: img/callforprice/popup.gif
 
 
     .. note::
