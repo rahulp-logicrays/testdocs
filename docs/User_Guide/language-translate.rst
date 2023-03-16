@@ -34,7 +34,7 @@ How to Configure
         Now we check the functionality from the front-end side.
 
 #. Open the front end of your store.
-    Here you can see below gif file it will work very well.
+    Here you can see below video file it will work very well.
 
-    .. figure:: img/language-translate/frontend-side.gif
+    .. figure:: img/callforprice/popup.gif
         :alt: front-end side module video
