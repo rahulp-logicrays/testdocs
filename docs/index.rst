@@ -29,3 +29,4 @@ Welcome to Logicrays
    User_Guide/restrict-fake-registration
    User_Guide/quick-order
    User_Guide/language-translate
+   User_Guide/product-inquiry
